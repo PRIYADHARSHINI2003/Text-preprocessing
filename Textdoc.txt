@@ -1,0 +1,13 @@
+Pr!ogr#am%m*in&g Lan?#guag(e .it is a general-purpose programming language intended to let application developers 
+write once, run anywhere meaning that compiled Java code can run on all platforms that support Java  
+ without the need for recompilation .java applications are typically compiled to bytecode bytecode that that can 
+run on any Java virtual machine (JVM) regardless of the underlying computer architecture .the syntax of Java is similar
+ to C and C++, but has fewer low-level facilities than either of them .as of 2019, Java was one of the most popular 
+programming languages in use according to GitHub,particularly for client-server web applications, with a reported 9 million 
+developers .<p>HTML links are defined with the a tag</p> .  👀😅😳🤣🥳🤨😎😭😔🤬🤩🥳😫😘🔥😭 is all emoji .
+
+
+
+
+       
+                 
